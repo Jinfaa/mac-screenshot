@@ -12,8 +12,6 @@ Simple application for macOS that allows users to select a specific area on the 
 
 ## Usage
 
-### **CMD+Shift+~**
-
 1. Press `CMD + Shift + ~` to activate the area selection tool.
 2. Drag to select the area you want to capture.
 3. The screenshot is automatically saved to the designated folder.
